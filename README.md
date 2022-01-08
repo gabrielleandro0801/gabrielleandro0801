@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Gabriel! 👋
+
+**About me**
+- :computer: Back-end Trainee at [Dock](https://dock.tech/)
+- :school: Studying System Analysis at [Fatec Carapicuíba](http://www.fateccarapicuiba.edu.br/)
+
+**Interests**
+- :snake: Python
+- :cloud: AWS
 
 <!--
-**gabrielleandro0801/gabrielleandro0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Social Media**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[LinkedIn](https://www.linkedin.com/in/gabrielleandro/)
 -->
