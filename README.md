@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel! 👋
 
 **About me**
-- :computer: Back-end Trainee at [Dock](https://dock.tech/)
+- :computer: Junior Developer at [Dock](https://dock.tech/)
 - :school: Studying System Analysis at [Fatec Carapicuíba](http://www.fateccarapicuiba.edu.br/)
 
 **Interests**
