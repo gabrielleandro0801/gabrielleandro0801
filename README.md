@@ -16,7 +16,7 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Back End developer gratuated in Systems Analysis and Development at [Fatec Carapicuíba](http://www.fateccarapicuiba.edu.br/). </br>
+🌱 I’m a Back End Developer graduated in Systems Analysis and Development at [Fatec Carapicuíba](http://www.fateccarapicuiba.edu.br/). </br>
 My favorite sports teams are:
 - 🏀 Miami Heat
 - 🏈 Seattle Seahawks
