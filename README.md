@@ -26,8 +26,9 @@ My favorite sports teams are:
 - [Software Development Intern (Dock)](https://dock.tech/) - (Sep'20 - Jul-'21)
 - [Software Development Engineer I (Dock)](https://dock.tech/) - (Jul'21 - Present)
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielleandro0801&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Gabriel's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielleandro0801&layout=compact&langs_count=8&hide_border=true)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielleandro0801&show_icons=true&hide_border=true&count_private=true&theme=react)
+
+![Gabriel's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielleandro0801&hide_border=true&theme=react&count_private=true)
 <br />
 
 ### Interests 🖥️
