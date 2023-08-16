@@ -24,7 +24,8 @@ My favorite sports teams are:
 
 ### My Experiences 🙌
 - [Software Development Intern (Dock)](https://dock.tech/) - (Sep'20 - Jul-'21)
-- [Software Development Engineer I (Dock)](https://dock.tech/) - (Jul'21 - Present)
+- [Software Development Engineer I (Dock)](https://dock.tech/) - (Jul'21 - Jun'23)
+- [Software Development Engineer II (Dock)](https://dock.tech/) - (Jun'23 - Present)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielleandro0801&show_icons=true&hide_border=true&count_private=true&theme=react)
 
