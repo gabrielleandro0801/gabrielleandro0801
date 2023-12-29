@@ -5,18 +5,18 @@
 <br />
 
 <a href="https://www.linkedin.com/in/gabrielleandro">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 <a href="mailto:gabrielleandro0801@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/gabriels0801/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br />
 
 ### About Me 🚀
-🌱 I’m a Back End Developer graduated in Systems Analysis and Development at [Fatec Carapicuíba](http://www.fateccarapicuiba.edu.br/). </br>
+👨‍💼 I’m a Back End Developer graduated in Systems Analysis and Development at [Fatec Carapicuíba](http://www.fateccarapicuiba.edu.br/). </br>
 My favorite sports teams are:
 - 🏀 Miami Heat
 - 🏈 Seattle Seahawks
@@ -33,8 +33,9 @@ My favorite sports teams are:
 <br />
 
 ### Interests 🖥️
-<img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=for-the-badge&logoColor=FFF" />
+<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFF" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFF" />
+<img align="left" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFF" />
+<img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFF" />
